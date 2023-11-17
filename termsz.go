@@ -12,3 +12,10 @@ func GetColumns() (int, error) {
 	cols, _, err := GetSize()
 	return cols, err
 }
+
+// GetRows returns the number of rows in the current terminal window.
+// It returns the number of rows as an integer and an error if any occurs.
+func GetRows() (int, error) {
+	_, rows, err := GetSize()
+	return rows, err
+}
