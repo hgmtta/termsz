@@ -1,4 +1,8 @@
 # Termsz
+[![Go Reference](https://img.shields.io/badge/go-reference-blue?style=for-the-badge)](https://pkg.go.dev/github.com/hgmtta/termsz)
+[![Go Report Card](https://goreportcard.com/badge/github.com/hgmtta/termsz?style=for-the-badge)](https://goreportcard.com/report/github.com/hgmtta/termsz)
+[![License](https://img.shields.io/github/license/hgmtta/termsz?style=for-the-badge)](LICENSE.md)
+
 **Termsz** is a cross-platform library for getting the size of the current terminal window.
 
 ## Installation
